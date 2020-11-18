@@ -9,6 +9,7 @@
   
   .container input,
   .container ::-webkit-input-placeholder {
-    color: white !important;
+    color: darkblue !important;
+    font-weight: 500;
   }
   
