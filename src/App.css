@@ -1,8 +1,14 @@
 .App {
+  background-image: linear-gradient(to right,#A770EF,#CF8BF3,#FDB99B);
   text-align: center;
+  height:200%;
+  margin: 0;
+  padding :0;
+  
+  
 }
 
-.App-logo {
+.App-logo {                               
   height: 40vmin;
   pointer-events: none;
 }

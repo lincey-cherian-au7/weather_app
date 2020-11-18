@@ -1,0 +1,7 @@
+.card{
+    background-image: linear-gradient(to right,#A770EF,#CF8BF3,#FDB99B);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
