@@ -1,12 +1,7 @@
 form {
     margin:3rem;
     background-color: transparent;
-    background-image:  linear-gradient(to right,#A770EF,#CF8BF3,#FDB99B);;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    padding: 50px;
+    padding: 30px;
 }
 input[name="city"],input[name="country"]{
     background-color:transparent;
